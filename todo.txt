@@ -8,5 +8,12 @@ MY TO-DO LIST
 6. Apply for remote jobs.
 7. matarme 
 8. just kill me :)
+<<<<<<< HEAD
+just... just do it ^^
+branch2 change at 11:06 
+||||||| ea28611
+just... just do it ^^
+=======
 just... just do it ^^
 new change 10:53
+>>>>>>> main
